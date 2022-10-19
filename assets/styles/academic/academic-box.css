@@ -1,6 +1,6 @@
 .academic__courses__box{
-    padding-left: 9.5rem;
-    padding-right: 9.5rem;
+    margin-left: 9.5rem;
+    margin-right: 9.5rem;
     text-align: left;
     transition: .2s;
 }
