@@ -3,7 +3,7 @@
     margin-top: 5rem;
     flex-direction: row-reverse;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 @media screen and (max-width:768px) {
